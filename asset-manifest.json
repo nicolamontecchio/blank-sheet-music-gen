@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/blank-sheet-music-gen/static/css/main.175d0e49.chunk.css",
+    "main.js": "/blank-sheet-music-gen/static/js/main.215c5388.chunk.js",
+    "main.js.map": "/blank-sheet-music-gen/static/js/main.215c5388.chunk.js.map",
+    "runtime-main.js": "/blank-sheet-music-gen/static/js/runtime-main.87622113.js",
+    "runtime-main.js.map": "/blank-sheet-music-gen/static/js/runtime-main.87622113.js.map",
+    "static/css/2.2a2afa88.chunk.css": "/blank-sheet-music-gen/static/css/2.2a2afa88.chunk.css",
+    "static/js/2.93f62db0.chunk.js": "/blank-sheet-music-gen/static/js/2.93f62db0.chunk.js",
+    "static/js/2.93f62db0.chunk.js.map": "/blank-sheet-music-gen/static/js/2.93f62db0.chunk.js.map",
+    "index.html": "/blank-sheet-music-gen/index.html",
+    "precache-manifest.92029f3af05157d8ab354265164d37e2.js": "/blank-sheet-music-gen/precache-manifest.92029f3af05157d8ab354265164d37e2.js",
+    "service-worker.js": "/blank-sheet-music-gen/service-worker.js",
+    "static/css/2.2a2afa88.chunk.css.map": "/blank-sheet-music-gen/static/css/2.2a2afa88.chunk.css.map",
+    "static/css/main.175d0e49.chunk.css.map": "/blank-sheet-music-gen/static/css/main.175d0e49.chunk.css.map"
+  }
+}
